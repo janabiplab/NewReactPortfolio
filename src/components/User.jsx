@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from "styled-components"
-import Engineer from "../assets/Image/myImage.JPG"
+import Engineer from "../assets/Image/myImage.jpg"
 
 function User() {
   return (
